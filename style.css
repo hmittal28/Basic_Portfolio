@@ -1,0 +1,38 @@
+body
+{
+  background-color: #00B8A9;
+}
+img
+{
+  height: 200px ;
+  border-radius: 50%;
+}
+h1
+{
+  /* text-align: center; */
+}
+h3
+{
+}
+.experience
+{
+  margin-left: 20px;
+}
+
+.center
+{
+  text-align: center;
+  color: white;
+}
+.fiv
+{
+  font-size: 1.25em;
+  /* text-align: center; */
+}
+hr
+{ border-style: none;
+  border-color:#FFFFFF ;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+}
